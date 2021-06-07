@@ -65,3 +65,11 @@ exclude:
   - CNAME
   - LICENSE
   - .git/
+
+    social_links:
+        - url: https://kylz.nl/git/kale
+              icon: gitea
+                    color: cyan
+        - url: https://github.com/minoplhy
+                      icon: github
+                        color: black
