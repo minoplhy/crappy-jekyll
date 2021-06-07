@@ -25,11 +25,10 @@ url: "https://kylz.nl" # the base hostname & protocol for your site, e.g. http:/
 github_username:  minoplhy
 
 # Build settings
-theme: jekyll-dash
+theme: minima
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
-- jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -66,35 +65,4 @@ exclude:
   - CNAME
   - LICENSE
   - .git/
-# required by disqus to display comments
-url: https://your-site-url
 
-# jekyll-paginate
-paginate: 5
-paginate_path: "/blog/page:num/"
-
-# jekyll-tagging (optional)
-tag_permalink_style: pretty
-tag_page_layout: tag_page
-tag_page_dir: tag
-
-dash:
-  date_format: "%b %-d, %Y"
-
-disqus:
-  shortname: kylz.nl/crappy
-
-          # generate social links in footer
-            # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
-              
-social_links:
-- url: https://kylz.nl/git/kale
-  icon: gitea
-  color: cyan
-- url: https://github.com/minoplhy
-  icon: github
-  color: black
-
-show_author: false
-
-animation_speed: 50
