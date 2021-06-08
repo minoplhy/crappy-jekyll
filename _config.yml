@@ -19,10 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Crappy's Blog
-description: WTF ? again?
-baseurl: "/crappy" # the subpath of your site, e.g. /blog
-url: "https://kylz.nl" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  minoplhy
+author:
+  name: Kale
+description: WTF? again?
+baseurl: "/crappy"
+url: "https://kylz.nl" 
 
 
 # Build settings
