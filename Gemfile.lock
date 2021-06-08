@@ -1,3 +1,9 @@
+PATH
+  remote: /minima-dark
+  specs:
+    minima-dark (0.1.0)
+      jekyll (~> 4.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -78,6 +84,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   minima (~> 2.5)
+  minima-dark!
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
