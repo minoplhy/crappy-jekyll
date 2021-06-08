@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Crappy's Blog but this is Jekyll"
-date:   2021-06-08 12:00:00 +0000
+date:   2021-06-07 12:00:00 +0000
 categories: Blog
 ---
 Hello This is Crappy's Blog
