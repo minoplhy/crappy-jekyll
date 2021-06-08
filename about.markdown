@@ -4,5 +4,5 @@ title: About
 permalink: /about
 ---
 
-A blog yeah a blog
-just like before
+I am Kale . and this is Crappy Blog Version 3
+This site is shit ya no? please don't give a shit
