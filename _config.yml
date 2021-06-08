@@ -26,7 +26,7 @@ github_username:  minoplhy
 
 
 # Build settings
-theme: minima
+theme: minima-dark
 
 plugins:
 - jekyll-feed
