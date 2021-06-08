@@ -27,10 +27,7 @@ github_username:  minoplhy
 gems: [jekyll-paginate]
 
 # Build settings
-theme:
-  creator:			Rizky Ariestiyansyah
-  codename:			Naringu
-  link:             https://github.com/ariestiyansyah/naringu
+theme: minima
 
 plugins:
 - jekyll-feed
