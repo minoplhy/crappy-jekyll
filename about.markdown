@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Something gonna happend please wait
+A blog yeah a blog
+just like before
