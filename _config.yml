@@ -61,9 +61,8 @@ plugins:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.markdown
- - [Website]
+ - [Website](https://kylz.nl)
 
-[website](https://kylz.nl)
 markdown: kramdown
 
 timezone: America/Chicago
