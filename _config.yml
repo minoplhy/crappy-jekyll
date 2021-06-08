@@ -24,7 +24,6 @@ baseurl: "/crappy" # the subpath of your site, e.g. /blog
 url: "https://kylz.nl" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  minoplhy
 
-gems: [jekyll-paginate]
 
 # Build settings
 theme: minima
