@@ -1,6 +1,6 @@
 ---
 layout: page
-title: website
+title: Website
 permalink: /website
 ---
 
