@@ -7,6 +7,6 @@ permalink: /website
 You're redirecting
 <html>
   <head>
-      <meta http-equiv="refresh" content="0; url='https://kylz.nl'" />
+      <meta http-equiv="refresh" content="0; url='/'" />
  </head>
 </html>
