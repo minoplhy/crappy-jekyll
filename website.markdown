@@ -1,5 +1,7 @@
 ---
-# This tells Jekyll to compile this page
+layout: page
+title: website
+permalink: /website
 ---
 
 # Website
