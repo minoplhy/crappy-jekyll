@@ -4,7 +4,6 @@ title: Website
 permalink: /website
 ---
 
-# Website
 You're redirecting
 <html>
   <head>
