@@ -61,8 +61,8 @@ plugins:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - website.markdown
- - about.markdown
  - sourcecode.markdown
+ - about.markdown
 
 markdown: kramdown
 
