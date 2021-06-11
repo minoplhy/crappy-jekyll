@@ -62,6 +62,7 @@ plugins:
 header_pages:
  - website.markdown
  - about.markdown
+ - sourcecode.markdown
 
 markdown: kramdown
 
