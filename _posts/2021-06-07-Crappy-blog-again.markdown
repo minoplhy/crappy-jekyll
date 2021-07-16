@@ -13,4 +13,4 @@ Not Promises.LOL
 
 ##### And as usual, Testing Image below vv
 
-![Test wowowowowowo](/crappy/assets/blog/ad2a18e1-4e50-4b1b-9df0-68b72210767d.png)
+![Test wowowowowowo](assets/blog/mouse_bottr.png)
