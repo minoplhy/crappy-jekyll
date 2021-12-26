@@ -19,3 +19,4 @@ Actualy, i moved from Cloudflare Pages to surge But, they doesn't Yet support IP
 
 ## Footer
 I don't know if this only me or someone else too. But since i change my DNS Provider, My DNS Response for +Wildcard+.1w1.one a lot worse than before. Don't known what cause this But, I'm looking into this
+*update: It's not my fault, It's network fault!*
