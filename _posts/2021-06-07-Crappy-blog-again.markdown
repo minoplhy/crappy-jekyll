@@ -2,7 +2,7 @@
 layout: post
 title:  "Crappy's Blog but this is Jekyll"
 date:   2021-06-07 12:00:00 +0000
-modified-date: 2022-02-12 12:00:00 +0000
+modified_date: 2022-02-12 12:00:00 +0000
 categories: Blog
 ---
 Hello, This is Crappy's Blog as usual, but this time with Jekyll.
