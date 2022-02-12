@@ -1,7 +1,7 @@
 ---
 layout: page
-title: sourcecode
-permalink: /sourcecode
+title: GitHub
+permalink: /GitHub
 ---
 
 You're redirecting
