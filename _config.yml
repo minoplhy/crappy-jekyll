@@ -22,13 +22,13 @@ title: Crappy's Blog
 author:
   name: Kale
 description: This Blog is Crappy .
-baseurl: "/"
+baseurl: ""
 url: "https://landing.1w1.one" 
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Build settings
-remote_theme: minoplhy/minima-dark
+#remote_theme: minima-dark
 
 plugins:
 - jekyll-feed
