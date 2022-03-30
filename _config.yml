@@ -80,4 +80,5 @@ exclude:
   - CNAME
   - LICENSE
   - .git/
+  - .htaccess
 
