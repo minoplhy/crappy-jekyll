@@ -18,14 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Crappy's Blog
+title: 1w1.one
 author:
-  name: Kale
-description: This Blog is Crappy .
+  name: 
+description: 
 baseurl: ""
-url: "https://landing.1w1.one" 
+url: "https://1w1.one" 
 
 show_excerpts: true # set to true to show excerpts on the homepage
+
+feed:
+  path: /blog/feed.xml
 
 # Build settings
 #remote_theme: minima-dark
@@ -60,16 +63,16 @@ plugins:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - website.markdown
- - github.markdown
- - gitea.markdown
+ - blog.markdown
+ - projects.markdown
+ - contact.markdown
  - about.markdown
 
 markdown: kramdown
 
 timezone: America/Chicago
 
-permalink: /posts/:slug
+permalink: /blog/:slug
 
 exclude:
   - README.md

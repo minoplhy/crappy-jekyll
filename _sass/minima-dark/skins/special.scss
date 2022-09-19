@@ -1,20 +1,21 @@
 @charset "utf-8";
 
-$brand-color:           #fff700 !default;
+$brand-color:           #fff93f !default;
 $brand-color-light:     lighten($brand-color, 5%) !default;
 $brand-color-dark:      darken($brand-color, 35%) !default;
 
 $site-title-color:      $brand-color-light !default;
 
 $main-color:            rgb(96, 239, 255) !default;
-$text-color:            #a153d2 !default;
-$head-color:            #da180a !default;
-$subhead-color:         rgba(4, 240, 91, 0.995) !default;
-$bold-color:            rgb(2, 255, 19) !default;
-$background-color:      #0e0e0e !default;
-$code-background-color: #483908 !default;
-$highlight:             #8302e5 !default;
-$highlight-background:       #f7cc7b !default;
+$text-color:            #f1e271 !default;
+$head-color:            #ff4e4e !default;
+$subhead-color:         rgba(71, 246, 179, 0.995) !default;
+$bold-color:            rgb(136, 212, 225) !default;
+$background-color:      #1d1d1d !default;
+$code-color:            #f5eb9c !default;
+$code-background-color: #5a4946 !default;
+$highlight:             #aee0dc !default;
+$highlight-background:       #02100f !default;
 
 $link-base-color:       #1eea92 !default;
 $link-visited-color:    rgb(137, 49, 49) !default;
