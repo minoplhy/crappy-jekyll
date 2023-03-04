@@ -1,3 +1,6 @@
+Email : kraneberru [at] disroot.org
+fingerprint : 06DA70F743504ECC7B657FC3297B1E9C8850D1C9
+
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 xsBNBF9ltO0BCADYQLR7EeySm/cHhxIyCnbaN5DCMAxANnotvYGGl841LPFKnDoP
